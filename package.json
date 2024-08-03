@@ -1,5 +1,5 @@
 {
-  "name": "dcc-utils",
+  "name": "dcc-self-utils",
   "version": "1.0.0",
   "description": "dcc npm test utils",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "keywords": [
     "util",
-    "dcc"
+    "dcc-self-utils"
   ],
   "author": "dcc",
   "license": "ISC"
